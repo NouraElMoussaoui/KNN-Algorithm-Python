@@ -1,16 +1,14 @@
-# 🌟 K-Nearest Neighbors (KNN) Classifier using Python
+# K-Nearest Neighbors (KNN) Classifier using Python
 
 ## 📌 Introduction
 This project implements the **K-Nearest Neighbors (KNN) algorithm** from scratch in Python using the **Iris dataset**.  
+
 It includes:
 - A **custom KNN classifier** built from scratch.
 - A **training script** to evaluate the model.
 - A **Jupyter Notebook** for data visualization.
 
 ---
-
-## 📂 Project Structure
-📦 knn-Algorithm-Python ├── 📜 knn.py # KNN algorithm implementation ├── 📜 train.py # Training script ├── 📜 notebook.ipynb # Jupyter Notebook for visualization ├── 📜 requirements.txt # Dependencies └── 📜 README.md # Documentation
 
 ## 📊 Dataset: Iris
 The Iris dataset consists of:
